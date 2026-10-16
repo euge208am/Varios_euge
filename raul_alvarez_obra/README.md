@@ -1,13 +1,14 @@
 # Obra de Raúl Néstor Alvarez: textos en PDF por año
 
 Recopilación de ponencias, artículos, reseñas, entrevistas y libros de Raúl Néstor Alvarez,
-armada a partir de su CV (septiembre 2025) y de búsquedas en la web (octubre 2026).
+armada a partir de su CV (septiembre 2025), de búsquedas en la web y de archivos aportados por la familia (octubre 2026).
 Cada carpeta corresponde al **año del evento o de la publicación**.
 
 **Origen de cada archivo:**
 - (R) = PDF original de la revista, las actas o el repositorio. Si estaba dentro de actas completas, se recortaron sólo la portada y sus páginas.
 - (B) = texto completo publicado por el propio autor en su blog [Poder y Derecho](https://poderyderecho.blogspot.com/), convertido a PDF.
 - (W) = página web guardada como PDF.
+- (A) = archivo original aportado directamente (no está publicado en la web).
 
 ## 2005
 - Derechos de incidencia colectiva y amparo. Trabajo final del curso del Dr. Walter Carnota, Posgrado de Derecho UBA. (B)
@@ -68,6 +69,16 @@ Cada carpeta corresponde al **año del evento o de la publicación**.
 - Bachateros suburbanos. XI Jornadas de Sociología de la UNLP. (R)
 - Reseña: "Tango y pasión", sobre *Aquí se baila el tango* de M. J. Carozzi. *Revista Question* Nº 73. (R)
 
+## 2023
+- Las deudas ambientales de la democracia (resumen). XVII Congreso Nacional de Derecho Político, La Rioja. (A)
+
+## 2024
+- El río invisible. Introducción al caso del Río Reconquista, en la Provincia de Buenos Aires (con Ariel Alvarez Malagón). XVI Congreso Nacional y IX Internacional sobre Democracia, UNR. (A)
+
+## 2026
+- RIGI: el extractivismo en perspectiva normativa. Un análisis crítico desde lo jurídico-estatal. Escrito en julio de 2026. (A)
+- Acerca de la improcedencia del desalojo entre coherederos. La situación del heredero ocupante en condiciones de marginalidad social. Trabajo final de la Diplomatura en Sucesiones y Planificación, CIJUSO-COLPROBA. Se tapó el DNI de la portada. (A)
+
 ---
 
 ## Pendientes: trabajos sin PDF descargable
@@ -88,7 +99,7 @@ Cada carpeta corresponde al **año del evento o de la publicación**.
 | 2018 | Ponencia en el XIII Congreso sobre Democracia (UNR) | No se conoce el título |
 | 2022 | Democracia participativa (XV Congreso sobre Democracia, UNR) | Sólo aparece en el programa del congreso |
 | 2022 | Participación como derecho político (XVI Congreso de Derecho Político, Posadas) | No está en línea |
-| 2024 | El río invisible. El caso del Río Reconquista (con Ariel Álvarez Malagón), XVI Congreso sobre Democracia | Sólo aparece en el programa del congreso |
+| 2023 | Las deudas ambientales de la democracia: texto completo | Sólo está el resumen |
 | 2024 | Libro: *Relaciones Públicas Inmobiliarias* (Amazon Kindle) | Libro comercial |
 
 Los blogs de clase de Raúl ([cienciapolitica2c](https://cienciapolitica2c.blogspot.com/) y [tupacapolitica](https://tupacapolitica.blogspot.com/)) tienen guías y trabajos prácticos de sus materias. No se incluyeron porque no son ponencias ni artículos.
